@@ -15,6 +15,7 @@ if (navigator.serviceWorker) {
   })
 }
 
+var img = 
 /**
  * This function displays an alert.
  */
