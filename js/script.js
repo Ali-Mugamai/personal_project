@@ -15,10 +15,10 @@ if (navigator.serviceWorker) {
   })
 }
 
-var img = 
-/**
- * This function displays an alert.
- */
-function myButtonClicked() {
-  document.getElementById("hello-world").innerHTML = "<p>Hello, World!</p>"
-}
+var img =
+  /**
+   * This function displays an alert.
+   */
+  function myButtonClicked() {
+    document.getElementById("hello-world").innerHTML = "<p>Hello, World!</p>"
+  }
